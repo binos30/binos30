@@ -3,7 +3,7 @@
 ### Web and Flutter Developer, who is interested in devising a better problem-solving method for challenging tasks, and learning new technologies and tools. I spend my free time with family and friends, and also attending to church.
 
 ![Visits Badge](https://badges.pufler.dev/visits/binos30/binos30)
-![Profile views](https://gpvc.arturio.dev/binos30)
+![Profile views](https://komarev.com/ghpvc/?username=binos30&color=brightgreen)
 ![Years Badge](https://badges.pufler.dev/years/binos30)
 [![GitLab Badge](https://img.shields.io/badge/GitLab-Profile-orange?logo=gitlab&style=flat)](https://gitlab.com/binos30)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/binos30/)
