@@ -35,5 +35,5 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=binos30&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Venus' GitHub Stats" />
 </a>
 <a href="https://github.com/binos30">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binos30&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binos30&hide=html,css,scss,sass&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
