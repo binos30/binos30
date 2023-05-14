@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Venus Lumanglas
 
-### Web and Flutter Developer who is interested in devising a better problem-solving method for challenging tasks, and learning new technologies and tools. I spend my free time with family and friends.
+### Software Developer who is interested in devising a better problem-solving method for challenging tasks, and learning new technologies and tools.
 
-![Years Badge](https://badges.pufler.dev/years/binos30)
+[![Years Badge](https://badges.pufler.dev/years/binos30)](https://badges.pufler.dev)
 [![GitLab Badge](https://img.shields.io/badge/GitLab-Profile-orange?logo=gitlab&style=flat)](https://gitlab.com/binos30)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/binos30/)
 
@@ -16,8 +16,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="30" height="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="ionic" width="30" height="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="30" height="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30" />
