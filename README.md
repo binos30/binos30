@@ -30,3 +30,7 @@
 <a href="https://github.com/binos30">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binos30&langs_count=8&layout=compact&hide=html,css,scss,sass&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
+
+## 🎵 Music
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=groundzero30&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=groundzero30&redirect=true)
