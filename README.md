@@ -33,4 +33,4 @@
 
 ## 🎵 Music
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=groundzero30&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=groundzero30&redirect=true)
+[![Data Card for Spotify](https://data-card-for-spotify.herokuapp.com/api/card?user_id=groundzero30)](https://open.spotify.com/user/groundzero30)
