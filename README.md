@@ -33,7 +33,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="heroku" width="30" height="30" title="Heroku" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="netlify" width="30" height="30" title="Netlify" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="30" height="30" title="Supabase" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="30" height="30" title="Amazon Web Services (AWS)" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="amazonwebservices" width="30" height="30" title="Amazon Web Services (AWS)" />
 </div>
 
 ## &#x1f4c8; Statistics
